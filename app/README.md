@@ -1,4 +1,4 @@
-# Landing page [Compare Business](https://comparebusinessfinanceloans.com.au/)
+# Landing page [Compare Business Design 1](https://comparebusinessfinanceloans.com.au/)
 
 This is a landing page boilerplate that uses PHP scripting language
 

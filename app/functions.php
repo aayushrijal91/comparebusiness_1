@@ -8,7 +8,7 @@ $bcc_email = 'kalbassit@aiims.com.au';
 $no_reply_email = 'info@assetfinanceshop.com';
 $recaptcha_client_secret = $client_secret;
 $recaptcha_server_secret = $server_secret;
-$pageRef = "$_SERVER[HTTP_HOST]";
+$pageRef = "https://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
 
 $application_page = false;
 
