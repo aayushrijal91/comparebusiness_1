@@ -63,6 +63,12 @@ section.form {
             padding-bottom: 40px;
         }
 
+        .validationError {
+            display: none;
+            color: $danger;
+            font-weight: 300;
+        }
+        
         .form-group {
             label {
                 font-size: 1.5rem;
